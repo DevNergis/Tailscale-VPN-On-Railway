@@ -4,7 +4,7 @@
 
 Host personal VPN on Railway using Tailscale
 
-[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template/uIBpGp?referralCode=androidquartz)
+[![Deploy on Railway](https://railway.com/button.svg)](https://railway.com/new/template/C1E9DP?referralCode=Nergis)
 
 ## How to setup
 
